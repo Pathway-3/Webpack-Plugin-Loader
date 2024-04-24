@@ -1,4 +1,5 @@
-'use strick';
+"use strick";
 
-console.log('Hello World');
+console.log("Hello World");
 
+import "./styles.css";
